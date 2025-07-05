@@ -1,0 +1,20 @@
+fever,cough,headache,fatigue,shortness_of_breath,chest_pain,nausea,sore_throat,disease
+1,1,0,1,0,0,1,0,Flu
+1,1,1,1,1,1,0,0,COVID-19
+0,1,1,0,0,0,0,1,Common Cold
+0,0,1,1,0,0,1,0,Malaria
+1,0,1,1,0,1,0,0,Heart Disease
+0,0,0,1,0,0,0,1,Throat Infection
+0,0,1,0,0,0,1,0,Migraine
+0,0,1,0,0,0,1,0,Migraine
+1,0,1,0,1,1,0,0,Pneumonia
+0,1,1,1,1,0,1,1,Typhoid
+0,0,0,1,1,1,1,0,Asthma
+1,0,0,1,1,0,0,0,Bronchitis
+1,1,0,1,1,0,0,1,Tonsillitis
+1,0,1,0,1,0,0,0,Tuberculosis
+0,0,1,1,0,1,0,0,Dengue
+1,1,1,1,0,1,0,1,COVID-19
+1,1,1,1,0,0,1,1,Flu
+0,1,0,1,0,0,1,1,Cold
+1,1,1,1,1,1,1,1,Severe Infection

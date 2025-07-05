@@ -1,0 +1,101 @@
+Heart Rate,Blood Glucose,Systolic BP,Diastolic BP,Sleep Hours,Symptom,Risk Level
+79,103,116,84,8.5,None,Low
+91,114,131,88,6.8,Dizziness,Medium
+125,183,146,106,5.2,Dizziness,High
+79,101,124,80,7.1,None,Low
+91,140,137,86,6.9,Fatigue,Medium
+104,159,166,104,3.3,Dizziness,High
+78,101,117,80,8.1,None,Low
+88,119,134,86,6.6,Nausea,Medium
+129,201,170,104,4.7,Dizziness,High
+82,106,116,73,8.4,None,Low
+88,134,128,87,5.8,Headache,Medium
+129,206,146,109,3.4,Dizziness,High
+74,102,115,75,8.3,None,Low
+98,138,131,91,6.3,Nausea,Medium
+111,166,155,99,3.0,Dizziness,High
+72,88,120,82,7.2,None,Low
+95,134,138,87,6.4,Fatigue,Medium
+123,191,150,112,3.9,Dizziness,High
+72,96,115,82,7.6,None,Low
+96,112,136,88,6.9,Dizziness,Medium
+106,201,142,109,5.5,Chest Pain,High
+67,105,116,79,7.2,None,Low
+86,150,135,86,6.5,Nausea,Medium
+110,157,168,112,4.6,Chest Pain,High
+78,103,119,73,7.6,None,Low
+96,113,128,92,5.8,Nausea,Medium
+126,203,165,119,3.7,Chest Pain,High
+77,94,125,84,7.4,None,Low
+100,149,128,93,6.8,Fatigue,Medium
+107,168,157,118,4.9,Dizziness,High
+82,96,115,76,8.0,None,Low
+98,118,138,93,6.0,Nausea,Medium
+110,206,162,119,4.3,Chest Pain,High
+76,82,117,83,8.0,None,Low
+86,143,137,95,5.8,Fatigue,Medium
+111,154,151,102,4.8,Dizziness,High
+78,82,119,84,7.2,None,Low
+93,129,136,92,6.4,Dizziness,Medium
+108,179,145,117,4.1,Chest Pain,High
+85,104,111,84,7.9,None,Low
+97,128,130,86,6.9,Fatigue,Medium
+114,162,144,118,3.3,Dizziness,High
+68,97,120,85,8.3,None,Low
+90,130,135,89,5.6,Dizziness,Medium
+117,205,160,117,3.4,Chest Pain,High
+67,82,113,74,9.0,None,Low
+97,141,126,90,6.5,Dizziness,Medium
+102,163,141,113,5.2,Dizziness,High
+72,85,112,74,8.0,None,Low
+89,114,133,86,6.2,Nausea,Medium
+118,164,161,98,3.6,Chest Pain,High
+72,110,113,83,7.1,None,Low
+87,147,132,95,6.2,Dizziness,Medium
+120,199,145,99,4.0,Chest Pain,High
+63,95,114,76,8.9,None,Low
+88,147,132,89,6.3,Fatigue,Medium
+115,192,150,109,5.4,Dizziness,High
+63,108,121,84,9.0,None,Low
+96,117,128,86,6.7,Fatigue,Medium
+119,155,165,106,3.2,Dizziness,High
+85,96,121,74,8.9,None,Low
+88,123,132,88,6.7,Headache,Medium
+111,155,162,114,3.5,Dizziness,High
+60,108,120,84,7.3,None,Low
+86,129,138,90,6.9,Fatigue,Medium
+120,166,163,100,3.1,Dizziness,High
+75,89,111,71,7.6,None,Low
+100,142,128,93,6.5,Nausea,Medium
+109,158,149,98,3.9,Dizziness,High
+60,106,114,75,7.6,None,Low
+94,123,128,87,6.6,Nausea,Medium
+119,159,155,111,4.2,Chest Pain,High
+79,86,110,78,8.8,None,Low
+93,138,128,92,5.9,Nausea,Medium
+114,196,164,107,3.4,Dizziness,High
+75,92,125,81,7.8,None,Low
+89,149,131,94,6.1,Nausea,Medium
+118,154,163,112,3.5,Dizziness,High
+60,108,114,83,8.4,None,Low
+96,143,126,94,6.1,Nausea,Medium
+122,174,142,108,5.0,Dizziness,High
+71,91,124,72,7.5,None,Low
+96,139,139,93,5.9,Nausea,Medium
+118,159,145,97,3.5,Dizziness,High
+60,82,123,78,8.2,None,Low
+89,143,138,88,5.7,Headache,Medium
+117,201,170,118,4.0,Chest Pain,High
+73,107,124,83,8.6,None,Low
+88,149,138,93,6.0,Fatigue,Medium
+105,206,148,109,3.4,Dizziness,High
+69,103,112,80,7.1,None,Low
+93,119,132,86,5.6,Nausea,Medium
+109,156,164,116,4.1,Dizziness,High
+76,98,120,72,8.9,None,Low
+89,116,138,94,6.8,Headache,Medium
+118,152,169,98,4.4,Chest Pain,High
+69,99,117,70,7.4,None,Low
+98,136,127,87,7.0,Nausea,Medium
+124,152,167,118,4.1,Dizziness,High
+121,155,157,97,3.6,Chest Pain,High
