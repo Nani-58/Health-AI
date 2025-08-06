@@ -1,16 +1,21 @@
 # Health-AI 🧠💊
 
-Health-AI is a Machine Learning and Deep Learning based project focused on predictive healthcare. It leverages data-driven models to assist in early diagnosis and health predictions, aiming to support better clinical decisions.
+Health-AI is an intelligent assistant designed to help users navigate healthcare information with ease using cutting-edge AI models like IBM Granite. It provides users with accurate, conversational support related to symptoms, diagnoses, and general medical advice—making healthcare more accessible through technology.
 
 ---
 
 ## 🚀 Features
 
-- Disease prediction using ML algorithms
-- Exploratory Data Analysis (EDA) for insights
-- Model evaluation using accuracy and confusion matrix
-- Integration-ready for healthcare web/mobile apps
-- Clean and modular Python code
+🩺 Medical Q&A Assistant – Ask health-related questions and get LLM-based answers.
+
+🧬 Symptom Checker – Provides possible causes and next steps.
+
+🔐 Secure & Private – No personal data stored.
+
+🧠 Powered by IBM Granite / LLMs – Utilizes modern foundation models for natural conversations.
+
+🌐 Web Interface – User-friendly front-end for easy interaction.
+
 
 ---
 
@@ -74,6 +79,7 @@ bash
 Copy
 Edit
 python app.py
+Make sure to configure your API keys if you're using external services.
 📈 Model Evaluation
 Models are evaluated using:
 
@@ -93,7 +99,9 @@ Integrate with real-time patient data
 Deploy models with Docker or cloud platforms
 
 🤝 Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss your ideas.
+ Want to improve Health-AI?
+ Contributions are welcome! Please fork the repo and create a pull request. You can also file an issue if you spot bugs or want to request features.
+
 
 📄 License
 This project is licensed under the MIT License.
